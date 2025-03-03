@@ -72,7 +72,7 @@
 |**2025-02-07**|**SC-OmniGS: Self-Calibrating Omnidirectional Gaussian Splatting**|Huajian Huang et.al.|[2502.04734](http://arxiv.org/abs/2502.04734)|null|
 |**2025-02-07**|**High-Speed Dynamic 3D Imaging with Sensor Fusion Splatting**|Zihao Zou et.al.|[2502.04630](http://arxiv.org/abs/2502.04630)|null|
 |**2025-02-05**|**GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**|Mingrui Li et.al.|[2502.03228](http://arxiv.org/abs/2502.03228)|null|
-|**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|null|
+|**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|**[link](https://github.com/zhihaohaoran/GPGS)**|
 |**2025-02-04**|**LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation**|Yang Zhou et.al.|[2502.01949](http://arxiv.org/abs/2502.01949)|null|
 |**2025-02-03**|**UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping**|Aashish Rai et.al.|[2502.01846](http://arxiv.org/abs/2502.01846)|null|
 |**2025-02-03**|**Scalable 3D Gaussian Splatting-Based RF Signal Spatial Propagation Modeling**|Kang Yang et.al.|[2502.01826](http://arxiv.org/abs/2502.01826)|null|
@@ -197,17 +197,17 @@
 |**2025-02-25**|**ToMCAT: Theory-of-Mind for Cooperative Agents in Teams via Multiagent Diffusion Policies**|Pedro Sequeira et.al.|[2502.18438](http://arxiv.org/abs/2502.18438)|null|
 |**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302](http://arxiv.org/abs/2502.18302)|null|
 |**2025-02-25**|**Synthesizing Consistent Novel Views via 3D Epipolar Attention without Re-Training**|Botao Ye et.al.|[2502.18219](http://arxiv.org/abs/2502.18219)|null|
-|**2025-02-25**|**Training Consistency Models with Variational Noise Coupling**|Gianluigi Silvestri et.al.|[2502.18197](http://arxiv.org/abs/2502.18197)|null|
+|**2025-02-25**|**Training Consistency Models with Variational Noise Coupling**|Gianluigi Silvestri et.al.|[2502.18197](http://arxiv.org/abs/2502.18197)|**[link](https://github.com/sony/vct)**|
 |**2025-02-25**|**Multi-Perspective Data Augmentation for Few-shot Object Detection**|Anh-Khoa Nguyen Vu et.al.|[2502.18195](http://arxiv.org/abs/2502.18195)|null|
 |**2025-02-25**|**Joint Reconstruction of Spatially-Coherent and Realistic Clothed Humans and Objects from a Single Image**|Ayushi Dutta et.al.|[2502.18150](http://arxiv.org/abs/2502.18150)|null|
-|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|null|
-|**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951](http://arxiv.org/abs/2502.17951)|null|
+|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|**[link](https://github.com/hanniewhu/promptmid)**|
+|**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951](http://arxiv.org/abs/2502.17951)|**[link](https://github.com/Jia7878/compositional-prompt-diffusion-for-polyp-generation)**|
 |**2025-02-25**|**3D Anatomical Structure-guided Deep Learning for Accurate Diffusion Microstructure Imaging**|Xinrui Ma et.al.|[2502.17933](http://arxiv.org/abs/2502.17933)|null|
 |**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681](http://arxiv.org/abs/2502.15681)|null|
 |**2025-02-21**|**Modeling Infectious Diseases: From SIR Models to Diffusion-Based Approaches and Numerical Solutions**|Ayesha Baig et.al.|[2502.15439](http://arxiv.org/abs/2502.15439)|null|
 |**2025-02-21**|**BundleFlow: Deep Menus for Combinatorial Auctions by Diffusion-Based Optimization**|Tonghan Wang et.al.|[2502.15283](http://arxiv.org/abs/2502.15283)|null|
 |**2025-02-21**|**CopyJudge: Automated Copyright Infringement Identification and Mitigation in Text-to-Image Diffusion Models**|Shunchang Liu et.al.|[2502.15278](http://arxiv.org/abs/2502.15278)|null|
-|**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204](http://arxiv.org/abs/2502.15204)|null|
+|**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204](http://arxiv.org/abs/2502.15204)|**[link](https://github.com/manem-lab/lung-ddpm)**|
 |**2025-02-21**|**Methods and Trends in Detecting Generated Images: A Comprehensive Review**|Arpan Mahara et.al.|[2502.15176](http://arxiv.org/abs/2502.15176)|null|
 |**2025-02-20**|**Pseudoinverse Diffusion Models for Generative CT Image Reconstruction from Low Dose Data**|Matthew Tivnan et.al.|[2502.15064](http://arxiv.org/abs/2502.15064)|null|
 |**2025-02-20**|**FIP: Endowing Robust Motion Capture on Daily Garment by Fusing Flex and Inertial Sensors**|Jiawei Fang et.al.|[2502.15058](http://arxiv.org/abs/2502.15058)|null|
@@ -350,7 +350,7 @@
 |**2025-01-17**|**Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**|Shengkui Zhao et.al.|[2501.10052](http://arxiv.org/abs/2501.10052)|**[link](https://github.com/alibabasglab/cldm-dcl)**|
 |**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018](http://arxiv.org/abs/2501.10018)|**[link](https://github.com/lixiaowen-xw/diffueraser)**|
 |**2025-01-17**|**Enhancing Crash Frequency Modeling Based on Augmented Multi-Type Data by Hybrid VAE-Diffusion-Based Generative Neural Networks**|Junlan Chen et.al.|[2501.10017](http://arxiv.org/abs/2501.10017)|null|
-|**2025-01-17**|**Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion**|Zekun Zhou et.al.|[2501.09935](http://arxiv.org/abs/2501.09935)|null|
+|**2025-01-17**|**Physics-informed DeepCT: Sinogram Wavelet Decomposition Meets Masked Diffusion**|Zekun Zhou et.al.|[2501.09935](http://arxiv.org/abs/2501.09935)|**[link](https://github.com/yqx7150/swarm)**|
 |**2025-01-16**|**Geometry-Preserving Encoder/Decoder in Latent Generative Models**|Wonjun Lee et.al.|[2501.09876](http://arxiv.org/abs/2501.09876)|null|
 |**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838](http://arxiv.org/abs/2501.09838)|**[link](https://github.com/alexberian/crossmodalitydiffusion)**|
 |**2025-01-16**|**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery**|Shristi Das Biswas et.al.|[2501.09826](http://arxiv.org/abs/2501.09826)|**[link](https://github.com/amazon-science/pixels)**|
