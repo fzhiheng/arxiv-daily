@@ -1,4 +1,4 @@
-## Updated on 2025.03.07
+## Updated on 2025.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
+|**2025-03-06**|**S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting**|Yecong Wan et.al.|[2503.04314](http://arxiv.org/abs/2503.04314)|null|
+|**2025-03-06**|**Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting**|Shuojue Yang et.al.|[2503.04082](http://arxiv.org/abs/2503.04082)|null|
+|**2025-03-06**|**Beyond Existance: Fulfill 3D Reconstructed Scenes with Pseudo Details**|Yifei Gao et.al.|[2503.04037](http://arxiv.org/abs/2503.04037)|null|
+|**2025-03-06**|**GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding**|Xihan Wang et.al.|[2503.04034](http://arxiv.org/abs/2503.04034)|null|
+|**2025-03-06**|**GRaD-Nav: Efficiently Learning Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2503.03984](http://arxiv.org/abs/2503.03984)|null|
+|**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-05**|**NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics**|Kun Yang et.al.|[2503.03115](http://arxiv.org/abs/2503.03115)|null|
 |**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452](http://arxiv.org/abs/2503.02452)|null|
 |**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223](http://arxiv.org/abs/2503.02223)|null|
@@ -134,12 +141,14 @@
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478](http://arxiv.org/abs/2501.07478)|**[link](https://github.com/lewis-stuart-11/3dgs-to-pc)**|
 
-<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079](http://arxiv.org/abs/2503.04079)|null|
+|**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
 |**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452](http://arxiv.org/abs/2503.02452)|null|
 |**2025-03-04**|**Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views**|Yingji Zhong et.al.|[2503.02230](http://arxiv.org/abs/2503.02230)|null|
@@ -199,12 +208,22 @@
 |**2025-01-17**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
 |**2025-01-11**|**NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References**|Qiang Qu et.al.|[2501.06488](http://arxiv.org/abs/2501.06488)|**[link](https://github.com/vincentqqu/nvs-sqa)**|
 
-<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
+|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
+|**2025-03-06**|**How to Move Your Dragon: Text-to-Motion Synthesis for Large-Vocabulary Objects**|Wonkwang Lee et.al.|[2503.04257](http://arxiv.org/abs/2503.04257)|null|
+|**2025-03-06**|**Synthetic Data is an Elegant GIFT for Continual Vision-Language Models**|Bin Wu et.al.|[2503.04229](http://arxiv.org/abs/2503.04229)|null|
+|**2025-03-06**|**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**|Rui Jiang et.al.|[2503.04215](http://arxiv.org/abs/2503.04215)|null|
+|**2025-03-06**|**CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation**|Yuki Tanaka et.al.|[2503.04164](http://arxiv.org/abs/2503.04164)|null|
+|**2025-03-06**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127](http://arxiv.org/abs/2503.04127)|null|
+|**2025-03-06**|**FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis**|Ziqi Ni et.al.|[2503.04067](http://arxiv.org/abs/2503.04067)|null|
+|**2025-03-06**|**RA-DP: Rapid Adaptive Diffusion Policy for Training-Free High-frequency Robotics Replanning**|Xi Ye et.al.|[2503.04051](http://arxiv.org/abs/2503.04051)|null|
+|**2025-03-06**|**Underlying Semantic Diffusion for Effective and Efficient In-Context Learning**|Zhong Ji et.al.|[2503.04050](http://arxiv.org/abs/2503.04050)|null|
 |**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
 |**2025-03-05**|**Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias**|Rui Lu et.al.|[2503.03595](http://arxiv.org/abs/2503.03595)|null|
@@ -398,7 +417,7 @@
 |**2025-01-16**|**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery**|Shristi Das Biswas et.al.|[2501.09826](http://arxiv.org/abs/2501.09826)|**[link](https://github.com/amazon-science/pixels)**|
 |**2025-01-16**|**Lossy Compression with Pretrained Diffusion Models**|Jeremy Vonderfecht et.al.|[2501.09815](http://arxiv.org/abs/2501.09815)|**[link](https://github.com/jeremyiv/diffc)**|
 
-<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250309>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
