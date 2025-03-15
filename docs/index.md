@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.13
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
+|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
+|**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437](http://arxiv.org/abs/2503.10437)|null|
+|**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286](http://arxiv.org/abs/2503.10286)|null|
+|**2025-03-13**|**ROODI: Reconstructing Occluded Objects with Denoising Inpainters**|Yeonjin Chang et.al.|[2503.10256](http://arxiv.org/abs/2503.10256)|null|
+|**2025-03-13**|**GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**|Jianheng Liu et.al.|[2503.10170](http://arxiv.org/abs/2503.10170)|null|
+|**2025-03-13**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148](http://arxiv.org/abs/2503.10148)|null|
+|**2025-03-13**|**GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping**|Jinfeng Liu et.al.|[2503.10143](http://arxiv.org/abs/2503.10143)|null|
+|**2025-03-13**|**AI-assisted 3D Preservation and Reconstruction of Temple Arts**|Naai-Jung Shih et.al.|[2503.10031](http://arxiv.org/abs/2503.10031)|null|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-11**|**PCGS: Progressive Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2503.08511](http://arxiv.org/abs/2503.08511)|null|
 |**2025-03-11**|**TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting**|Fengyi Zhang et.al.|[2503.08485](http://arxiv.org/abs/2503.08485)|null|
 |**2025-03-11**|**Mitigating Ambiguities in 3D Classification with Gaussian Splatting**|Ruiqi Zhang et.al.|[2503.08352](http://arxiv.org/abs/2503.08352)|null|
@@ -160,6 +170,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464](http://arxiv.org/abs/2503.10464)|null|
+|**2025-03-13**|**AI-assisted 3D Preservation and Reconstruction of Temple Arts**|Naai-Jung Shih et.al.|[2503.10031](http://arxiv.org/abs/2503.10031)|null|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483](http://arxiv.org/abs/2503.08483)|null|
 |**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
@@ -234,6 +247,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|null|
+|**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
+|**2025-03-13**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
+|**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
+|**2025-03-13**|**NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models**|Mert Albaba et.al.|[2503.10626](http://arxiv.org/abs/2503.10626)|null|
+|**2025-03-13**|**DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation**|Chen Chen et.al.|[2503.10618](http://arxiv.org/abs/2503.10618)|null|
+|**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
+|**2025-03-13**|**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models**|Hao He et.al.|[2503.10592](http://arxiv.org/abs/2503.10592)|null|
+|**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
+|**2025-03-13**|**Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion**|Evgeniia Vu et.al.|[2503.10488](http://arxiv.org/abs/2503.10488)|null|
 |**2025-03-11**|**GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing**|Yuanhao Wang et.al.|[2503.08678](http://arxiv.org/abs/2503.08678)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-11**|**Modeling Stock Return Distributions and Pricing Options**|Xinxin Jiang et.al.|[2503.08666](http://arxiv.org/abs/2503.08666)|null|
