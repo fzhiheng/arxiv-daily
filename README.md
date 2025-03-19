@@ -1,4 +1,4 @@
-## Updated on 2025.03.17
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors**|Katja Schwarz et.al.|[2503.13272](http://arxiv.org/abs/2503.13272)|null|
+|**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176](http://arxiv.org/abs/2503.13176)|null|
+|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086](http://arxiv.org/abs/2503.13086)|null|
+|**2025-03-17**|**CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression**|Yu-Ting Zhan et.al.|[2503.12862](http://arxiv.org/abs/2503.12862)|null|
+|**2025-03-17**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836](http://arxiv.org/abs/2503.12836)|null|
+|**2025-03-17**|**AV-Surf: Surface-Enhanced Geometry-Aware Novel-View Acoustic Synthesis**|Hadam Baek et.al.|[2503.12806](http://arxiv.org/abs/2503.12806)|null|
+|**2025-03-16**|**Deblur Gaussian Splatting SLAM**|Francesco Girlanda et.al.|[2503.12572](http://arxiv.org/abs/2503.12572)|null|
+|**2025-03-16**|**MTGS: Multi-Traversal Gaussian Splatting**|Tianyu Li et.al.|[2503.12552](http://arxiv.org/abs/2503.12552)|null|
+|**2025-03-16**|**SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs**|Guibiao Liao et.al.|[2503.12535](http://arxiv.org/abs/2503.12535)|null|
+|**2025-03-16**|**VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting**|Songen Gu et.al.|[2503.12383](http://arxiv.org/abs/2503.12383)|null|
 |**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
 |**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437](http://arxiv.org/abs/2503.10437)|null|
@@ -171,17 +181,22 @@
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478](http://arxiv.org/abs/2501.07478)|**[link](https://github.com/lewis-stuart-11/3dgs-to-pc)**|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347](http://arxiv.org/abs/2503.13347)|null|
+|**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176](http://arxiv.org/abs/2503.13176)|null|
+|**2025-03-17**|**DivCon-NeRF: Generating Augmented Rays with Diversity and Consistency for Few-shot View Synthesis**|Ingyun Lee et.al.|[2503.12947](http://arxiv.org/abs/2503.12947)|null|
+|**2025-03-15**|**FA-BARF: Frequency Adapted Bundle-Adjusting Neural Radiance Fields**|Rui Qian et.al.|[2503.12086](http://arxiv.org/abs/2503.12086)|null|
+|**2025-03-14**|**Industrial-Grade Sensor Simulation via Gaussian Splatting: A Modular Framework for Scalable Editing and Full-Stack Validation**|Xianming Zeng et.al.|[2503.11731](http://arxiv.org/abs/2503.11731)|null|
 |**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464](http://arxiv.org/abs/2503.10464)|null|
 |**2025-03-13**|**AI-assisted 3D Preservation and Reconstruction of Temple Arts**|Naai-Jung Shih et.al.|[2503.10031](http://arxiv.org/abs/2503.10031)|null|
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-11**|**GAS-NeRF: Geometry-Aware Stylization of Dynamic Radiance Fields**|Nhat Phuong Anh Vu et.al.|[2503.08483](http://arxiv.org/abs/2503.08483)|null|
-|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
+|**2025-03-17**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071](http://arxiv.org/abs/2503.08071)|null|
 |**2025-03-11**|**NeRF-VIO: Map-Based Visual-Inertial Odometry with Initialization Leveraging Neural Radiance Fields**|Yanyu Zhang et.al.|[2503.07952](http://arxiv.org/abs/2503.07952)|null|
 |**2025-03-10**|**Neural Radiance and Gaze Fields for Visual Attention Modeling in 3D Environments**|Andrei Chubarau et.al.|[2503.07828](http://arxiv.org/abs/2503.07828)|null|
@@ -250,12 +265,22 @@
 |**2025-01-17**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
 |**2025-01-11**|**NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References**|Qiang Qu et.al.|[2501.06488](http://arxiv.org/abs/2501.06488)|**[link](https://github.com/vincentqqu/nvs-sqa)**|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358](http://arxiv.org/abs/2503.13358)|null|
+|**2025-03-17**|**Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors**|Katja Schwarz et.al.|[2503.13272](http://arxiv.org/abs/2503.13272)|null|
+|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265](http://arxiv.org/abs/2503.13265)|null|
+|**2025-03-17**|**MedLoRD: A Medical Low-Resource Diffusion Model for High-Resolution 3D CT Image Synthesis**|Marvin Seyfarth et.al.|[2503.13211](http://arxiv.org/abs/2503.13211)|null|
+|**2025-03-17**|**Patient-specific radiomic feature selection with reconstructed healthy persona of knee MR images**|Yaxi Chen et.al.|[2503.13131](http://arxiv.org/abs/2503.13131)|null|
+|**2025-03-17**|**DTGBrepGen: A Novel B-rep Generative Model through Decoupling Topology and Geometry**|Jing Li et.al.|[2503.13110](http://arxiv.org/abs/2503.13110)|null|
+|**2025-03-17**|**Beyond Classical Diffusion: Fractional Derivatives in Transport and Stochastic Systems**|Cypres Verbeeck et.al.|[2503.13096](http://arxiv.org/abs/2503.13096)|null|
+|**2025-03-17**|**TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba**|Jiaxu Liu et.al.|[2503.13004](http://arxiv.org/abs/2503.13004)|null|
+|**2025-03-17**|**Training Video Foundation Models with NVIDIA NeMo**|Zeeshan Patel et.al.|[2503.12964](http://arxiv.org/abs/2503.12964)|null|
+|**2025-03-17**|**Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**|Chaolong Yang et.al.|[2503.12963](http://arxiv.org/abs/2503.12963)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
 |**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
@@ -489,7 +514,7 @@
 |**2025-01-16**|**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery**|Shristi Das Biswas et.al.|[2501.09826](http://arxiv.org/abs/2501.09826)|**[link](https://github.com/amazon-science/pixels)**|
 |**2025-01-16**|**Lossy Compression with Pretrained Diffusion Models**|Jeremy Vonderfecht et.al.|[2501.09815](http://arxiv.org/abs/2501.09815)|**[link](https://github.com/jeremyiv/diffc)**|
 
-<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
