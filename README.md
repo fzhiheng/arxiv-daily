@@ -28,14 +28,14 @@
 |**2025-03-25**|**High-Quality Spatial Reconstruction and Orthoimage Generation Using Efficient 2D Gaussian Splatting**|Qian Wang et.al.|[2503.19703](http://arxiv.org/abs/2503.19703)|null|
 |**2025-03-25**|**GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting**|Shujuan Li et.al.|[2503.19458](http://arxiv.org/abs/2503.19458)|null|
 |**2025-03-25**|**SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors**|Yiqing Li et.al.|[2503.19452](http://arxiv.org/abs/2503.19452)|null|
-|**2025-03-26**|**COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting**|Jiaxin Zhang et.al.|[2503.19443](http://arxiv.org/abs/2503.19443)|null|
+|**2025-03-26**|**COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting**|Jiaxin Zhang et.al.|[2503.19443](http://arxiv.org/abs/2503.19443)|**[link](https://github.com/zestfuljx/cob-gs)**|
 |**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|null|
 |**2025-03-25**|**Divide-and-Conquer: Dual-Hierarchical Optimization for Semantic 4D Gaussian Spatting**|Zhiying Yan et.al.|[2503.19332](http://arxiv.org/abs/2503.19332)|null|
 |**2025-03-25**|**MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection**|Jee Won Lee et.al.|[2503.19330](http://arxiv.org/abs/2503.19330)|null|
 |**2025-03-25**|**HoGS: Unified Near and Far Object Reconstruction via Homogeneous Gaussian Splatting**|Xinpeng Liu et.al.|[2503.19232](http://arxiv.org/abs/2503.19232)|**[link](https://github.com/huntorochi/HoGS)**|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-21**|**TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting**|Jianchuan Chen et.al.|[2503.17032](http://arxiv.org/abs/2503.17032)|null|
-|**2025-03-21**|**Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting**|Jinbo Yan et.al.|[2503.16979](http://arxiv.org/abs/2503.16979)|null|
+|**2025-03-21**|**Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting**|Jinbo Yan et.al.|[2503.16979](http://arxiv.org/abs/2503.16979)|**[link](https://github.com/yjb6/IGS)**|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
 |**2025-03-21**|**Optimized Minimal 3D Gaussian Splatting**|Joo Chan Lee et.al.|[2503.16924](http://arxiv.org/abs/2503.16924)|null|
 |**2025-03-20**|**SAGE: Semantic-Driven Adaptive Gaussian Splatting in Extended Reality**|Chiara Schiavo et.al.|[2503.16747](http://arxiv.org/abs/2503.16747)|null|
@@ -242,10 +242,10 @@
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
 |**2025-03-24**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361](http://arxiv.org/abs/2503.18361)|null|
-|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|null|
-|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
+|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|**[link](https://github.com/sandergielisse/mwt)**|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|**[link](https://github.com/cancaries/SceneCrafter)**|
 |**2025-03-23**|**PanopticSplatting: End-to-End Panoptic Gaussian Splatting**|Yuxuan Xie et.al.|[2503.18073](http://arxiv.org/abs/2503.18073)|null|
-|**2025-03-21**|**Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**|Emanuele Giacomini et.al.|[2503.17491](http://arxiv.org/abs/2503.17491)|null|
+|**2025-03-21**|**Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**|Emanuele Giacomini et.al.|[2503.17491](http://arxiv.org/abs/2503.17491)|**[link](https://github.com/rvp-group/Splat-LOAM)**|
 |**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095](http://arxiv.org/abs/2503.17095)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
 |**2025-03-20**|**Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**|Esther Y. H. Lin et.al.|[2503.16742](http://arxiv.org/abs/2503.16742)|null|
@@ -360,7 +360,7 @@
 |**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
 |**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798](http://arxiv.org/abs/2503.19798)|null|
 |**2025-03-26**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793](http://arxiv.org/abs/2503.19793)|null|
-|**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|null|
+|**2025-03-25**|**SITA: Structurally Imperceptible and Transferable Adversarial Attacks for Stylized Image Generation**|Jingdan Kang et.al.|[2503.19791](http://arxiv.org/abs/2503.19791)|**[link](https://github.com/a-raniy-day/sita)**|
 |**2025-03-25**|**Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models**|Kartik Thakral et.al.|[2503.19783](http://arxiv.org/abs/2503.19783)|null|
 |**2025-03-21**|**Preference-Guided Diffusion for Multi-Objective Offline Optimization**|Yashas Annadani et.al.|[2503.17299](http://arxiv.org/abs/2503.17299)|null|
 |**2025-03-21**|**Deep End-to-End Posterior ENergy (DEEPEN) for image recovery**|Jyothi Rikhab Chand et.al.|[2503.17244](http://arxiv.org/abs/2503.17244)|null|
@@ -370,19 +370,19 @@
 |**2025-03-21**|**D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens**|Panpan Wang et.al.|[2503.17155](http://arxiv.org/abs/2503.17155)|null|
 |**2025-03-21**|**R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**|Boyuan Zheng et.al.|[2503.17097](http://arxiv.org/abs/2503.17097)|null|
 |**2025-03-21**|**DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech**|Yongkang Cheng et.al.|[2503.17059](http://arxiv.org/abs/2503.17059)|null|
-|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|null|
+|**2025-03-21**|**Enabling Versatile Controls for Video Diffusion Models**|Xu Zhang et.al.|[2503.16983](http://arxiv.org/abs/2503.16983)|**[link](https://github.com/PaddlePaddle/PaddleMIX)**|
 |**2025-03-21**|**Real-Time Diffusion Policies for Games: Enhancing Consistency Policies with Q-Ensembles**|Ruoqi Zhang et.al.|[2503.16978](http://arxiv.org/abs/2503.16978)|null|
 |**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412](http://arxiv.org/abs/2503.16412)|null|
-|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
+|**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|**[link](https://github.com/seungjucha/verbdiff)**|
 |**2025-03-20**|**ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos**|Haolin Yang et.al.|[2503.16400](http://arxiv.org/abs/2503.16400)|null|
 |**2025-03-20**|**Scale-wise Distillation of Diffusion Models**|Nikita Starodubcev et.al.|[2503.16397](http://arxiv.org/abs/2503.16397)|null|
 |**2025-03-20**|**SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation**|Chun-Han Yao et.al.|[2503.16396](http://arxiv.org/abs/2503.16396)|null|
 |**2025-03-20**|**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**|Akhil Perincherry et.al.|[2503.16394](http://arxiv.org/abs/2503.16394)|null|
 |**2025-03-20**|**LaPIG: Cross-Modal Generation of Paired Thermal and Visible Facial Images**|Leyang Wang et.al.|[2503.16376](http://arxiv.org/abs/2503.16376)|null|
 |**2025-03-20**|**Heat transfer and mixing in initiated Chemical Vapor Deposition analyzed by in-situ gas composition sensing**|Simon Shindler et.al.|[2503.16373](http://arxiv.org/abs/2503.16373)|null|
-|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|null|
-|**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302](http://arxiv.org/abs/2503.16302)|null|
-|**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|null|
+|**2025-03-20**|**Ultra-Resolution Adaptation with Ease**|Ruonan Yu et.al.|[2503.16322](http://arxiv.org/abs/2503.16322)|**[link](https://github.com/huage001/urae)**|
+|**2025-03-20**|**Unleashing Vecset Diffusion Model for Fast Shape Generation**|Zeqiang Lai et.al.|[2503.16302](http://arxiv.org/abs/2503.16302)|**[link](https://github.com/tencent/flashvdm)**|
+|**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|**[link](https://github.com/cccrrrccc/fp4dit)**|
 |**2025-03-19**|**Di $\mathtt{[M]}$ O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457](http://arxiv.org/abs/2503.15457)|null|
 |**2025-03-19**|**MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space**|Lixing Xiao et.al.|[2503.15451](http://arxiv.org/abs/2503.15451)|null|
 |**2025-03-19**|**Visual Persona: Foundation Model for Full-Body Human Customization**|Jisu Nam et.al.|[2503.15406](http://arxiv.org/abs/2503.15406)|null|
@@ -391,7 +391,7 @@
 |**2025-03-19**|**Euclid Quick Data Release (Q1). Active galactic nuclei identification using diffusion-based inpainting of Euclid VIS images**|Euclid Collaboration et.al.|[2503.15321](http://arxiv.org/abs/2503.15321)|null|
 |**2025-03-19**|**Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization**|Feifei Li et.al.|[2503.15197](http://arxiv.org/abs/2503.15197)|null|
 |**2025-03-19**|**Single-Step Bidirectional Unpaired Image Translation Using Implicit Bridge Consistency Distillation**|Suhyeon Lee et.al.|[2503.15056](http://arxiv.org/abs/2503.15056)|null|
-|**2025-03-19**|**Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training**|Yunwei Lan et.al.|[2503.15017](http://arxiv.org/abs/2503.15017)|null|
+|**2025-03-19**|**Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training**|Yunwei Lan et.al.|[2503.15017](http://arxiv.org/abs/2503.15017)|**[link](https://github.com/ywxjm/diff-dehazer)**|
 |**2025-03-17**|**One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation**|Daniil Selikhanovych et.al.|[2503.13358](http://arxiv.org/abs/2503.13358)|null|
 |**2025-03-17**|**Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors**|Katja Schwarz et.al.|[2503.13272](http://arxiv.org/abs/2503.13272)|null|
 |**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265](http://arxiv.org/abs/2503.13265)|null|
@@ -442,7 +442,7 @@
 |**2025-03-06**|**FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis**|Ziqi Ni et.al.|[2503.04067](http://arxiv.org/abs/2503.04067)|null|
 |**2025-03-06**|**RA-DP: Rapid Adaptive Diffusion Policy for Training-Free High-frequency Robotics Replanning**|Xi Ye et.al.|[2503.04051](http://arxiv.org/abs/2503.04051)|null|
 |**2025-03-06**|**Underlying Semantic Diffusion for Effective and Efficient In-Context Learning**|Zhong Ji et.al.|[2503.04050](http://arxiv.org/abs/2503.04050)|null|
-|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
+|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|**[link](https://github.com/ali-vilab/cdt)**|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|**[link](https://github.com/yangzhaojason/DualDiff)**|
 |**2025-03-05**|**Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias**|Rui Lu et.al.|[2503.03595](http://arxiv.org/abs/2503.03595)|null|
 |**2025-03-05**|**Generative Artificial Intelligence in Robotic Manipulation: A Survey**|Kun Zhang et.al.|[2503.03464](http://arxiv.org/abs/2503.03464)|null|
