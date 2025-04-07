@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-03**|**MonoGS++: Fast and Accurate Monocular RGB Gaussian SLAM**|Renwu Li et.al.|[2504.02437](http://arxiv.org/abs/2504.02437)|null|
-|**2025-04-03**|**ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation**|Yuan Zhou et.al.|[2504.02316](http://arxiv.org/abs/2504.02316)|null|
+|**2025-04-03**|**ConsDreamer: Advancing Multi-View Consistency for Zero-Shot Text-to-3D Generation**|Yuan Zhou et.al.|[2504.02316](http://arxiv.org/abs/2504.02316)|**[link](https://github.com/GAInuist/ConsDreamer)**|
 |**2025-04-03**|**Digital-twin imaging based on descattering Gaussian splatting**|Suguru Shimomura et.al.|[2504.02278](http://arxiv.org/abs/2504.02278)|null|
 |**2025-04-02**|**UAVTwin: Neural Digital Twins for UAVs using Gaussian Splatting**|Jaehoon Choi et.al.|[2504.02158](http://arxiv.org/abs/2504.02158)|null|
 |**2025-04-02**|**WorldPrompter: Traversable Text-to-Scene Generation**|Zhaoyang Zhang et.al.|[2504.02045](http://arxiv.org/abs/2504.02045)|null|
@@ -40,7 +40,7 @@ layout: default
 |**2025-03-27**|**X $^{2}$ -Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction**|Weihao Yu et.al.|[2503.21779](http://arxiv.org/abs/2503.21779)|null|
 |**2025-03-27**|**Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**|Hairong Yin et.al.|[2503.21767](http://arxiv.org/abs/2503.21767)|null|
 |**2025-03-27**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442](http://arxiv.org/abs/2503.21442)|null|
-|**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
+|**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|**[link](https://github.com/internlandmark/landmarksystem)**|
 |**2025-03-27**|**Frequency-Aware Gaussian Splatting Decomposition**|Yishai Lavi et.al.|[2503.21226](http://arxiv.org/abs/2503.21226)|null|
 |**2025-03-27**|**StyledStreets: Multi-style Street Simulator with Spatial and Temporal Consistency**|Yuyin Chen et.al.|[2503.21104](http://arxiv.org/abs/2503.21104)|null|
 |**2025-03-26**|**PGC: Physics-Based Gaussian Cloth from a Single Pose**|Michelle Guo et.al.|[2503.20779](http://arxiv.org/abs/2503.20779)|null|
@@ -68,7 +68,7 @@ layout: default
 |**2025-03-20**|**M3: 3D-Spatial MultiModal Memory**|Xueyan Zou et.al.|[2503.16413](http://arxiv.org/abs/2503.16413)|**[link](https://github.com/maureenzou/m3-spatial)**|
 |**2025-03-20**|**Gaussian Graph Network: Learning Efficient and Generalizable Gaussian Representations from Multi-view Images**|Shengjun Zhang et.al.|[2503.16338](http://arxiv.org/abs/2503.16338)|null|
 |**2025-03-20**|**OccluGaussian: Occlusion-Aware Gaussian Splatting for Large Scene Reconstruction and Rendering**|Shiyong Liu et.al.|[2503.16177](http://arxiv.org/abs/2503.16177)|null|
-|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
+|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|**[link](https://github.com/JiatongXia/Pseudo-Labeling)**|
 |**2025-03-20**|**VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling**|Hyojun Go et.al.|[2503.15855](http://arxiv.org/abs/2503.15855)|null|
 |**2025-03-20**|**BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting**|Yiren Lu et.al.|[2503.15835](http://arxiv.org/abs/2503.15835)|null|
 |**2025-03-18**|**HandSplat: Embedding-Driven Gaussian Splatting for High-Fidelity Hand Rendering**|Yilan Dong et.al.|[2503.14736](http://arxiv.org/abs/2503.14736)|null|
@@ -92,7 +92,7 @@ layout: default
 |**2025-03-16**|**VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting**|Songen Gu et.al.|[2503.12383](http://arxiv.org/abs/2503.12383)|null|
 |**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|**[link](https://github.com/aigc3d/LHM)**|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
-|**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437](http://arxiv.org/abs/2503.10437)|null|
+|**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437](http://arxiv.org/abs/2503.10437)|**[link](https://github.com/zrporz/4DLangSplat)**|
 |**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286](http://arxiv.org/abs/2503.10286)|null|
 |**2025-03-13**|**ROODI: Reconstructing Occluded Objects with Denoising Inpainters**|Yeonjin Chang et.al.|[2503.10256](http://arxiv.org/abs/2503.10256)|null|
 |**2025-03-13**|**GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**|Jianheng Liu et.al.|[2503.10170](http://arxiv.org/abs/2503.10170)|**[link](https://github.com/hku-mars/gs-sdf)**|
@@ -104,7 +104,7 @@ layout: default
 |**2025-03-11**|**TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting**|Fengyi Zhang et.al.|[2503.08485](http://arxiv.org/abs/2503.08485)|null|
 |**2025-03-11**|**Mitigating Ambiguities in 3D Classification with Gaussian Splatting**|Ruiqi Zhang et.al.|[2503.08352](http://arxiv.org/abs/2503.08352)|null|
 |**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
-|**2025-03-11**|**ELECTRA: A Symmetry-breaking Cartesian Network for Charge Density Prediction with Floating Orbitals**|Jonas Elsborg et.al.|[2503.08305](http://arxiv.org/abs/2503.08305)|null|
+|**2025-03-11**|**ELECTRA: A Symmetry-breaking Cartesian Network for Charge Density Prediction with Floating Orbitals**|Jonas Elsborg et.al.|[2503.08305](http://arxiv.org/abs/2503.08305)|**[link](https://github.com/Jotels/ELECTRA)**|
 |**2025-03-11**|**HRAvatar: High-Quality and Relightable Gaussian Head Avatar**|Dongbin Zhang et.al.|[2503.08224](http://arxiv.org/abs/2503.08224)|null|
 |**2025-03-11**|**S3R-GS: Streamlining the Pipeline for Large-Scale Street Scene Reconstruction**|Guangting Zheng et.al.|[2503.08217](http://arxiv.org/abs/2503.08217)|null|
 |**2025-03-11**|**Dynamic Scene Reconstruction: Recent Advance in Real-time Rendering and Streaming**|Jiaxuan Zhu et.al.|[2503.08166](http://arxiv.org/abs/2503.08166)|null|
@@ -285,7 +285,7 @@ layout: default
 |**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095](http://arxiv.org/abs/2503.17095)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
 |**2025-03-20**|**Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data**|Esther Y. H. Lin et.al.|[2503.16742](http://arxiv.org/abs/2503.16742)|null|
-|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|null|
+|**2025-03-20**|**Enhancing Close-up Novel View Synthesis via Pseudo-labeling**|Jiatong Xia et.al.|[2503.15908](http://arxiv.org/abs/2503.15908)|**[link](https://github.com/JiatongXia/Pseudo-Labeling)**|
 |**2025-03-19**|**SPNeRF: Open Vocabulary 3D Neural Scene Segmentation with Superpoints**|Weiwen Hu et.al.|[2503.15712](http://arxiv.org/abs/2503.15712)|null|
 |**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|**[link](https://github.com/freedomgu/diffportrait360)**|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
@@ -420,7 +420,7 @@ layout: default
 |**2025-03-25**|**PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**|Mingju Gao et.al.|[2503.19913](http://arxiv.org/abs/2503.19913)|null|
 |**2025-03-26**|**AvatarArtist: Open-Domain 4D Avatarization**|Hongyu Liu et.al.|[2503.19906](http://arxiv.org/abs/2503.19906)|null|
 |**2025-03-25**|**ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**|Fernando Julio Cendra et.al.|[2503.19902](http://arxiv.org/abs/2503.19902)|null|
-|**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|null|
+|**2025-03-25**|**Scaling Down Text Encoders of Text-to-Image Diffusion Models**|Lifu Wang et.al.|[2503.19897](http://arxiv.org/abs/2503.19897)|**[link](https://github.com/LifuWang-66/DistillT5)**|
 |**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
 |**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798](http://arxiv.org/abs/2503.19798)|null|
 |**2025-03-26**|**In the Blink of an Eye: Instant Game Map Editing using a Generative-AI Smart Brush**|Vitaly Gnatyuk et.al.|[2503.19793](http://arxiv.org/abs/2503.19793)|null|
@@ -616,7 +616,7 @@ layout: default
 |**2025-02-06**|**HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**|Yiming Huang et.al.|[2502.04308](http://arxiv.org/abs/2502.04308)|**[link](https://github.com/yiminghh/hog-diff)**|
 |**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299](http://arxiv.org/abs/2502.04299)|null|
 |**2025-02-06**|**Diffusion-based mass map reconstruction from weak lensing data**|Supranta S. Boruah et.al.|[2502.04158](http://arxiv.org/abs/2502.04158)|null|
-|**2025-02-06**|**Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis**|Zhen Ye et.al.|[2502.04128](http://arxiv.org/abs/2502.04128)|null|
+|**2025-02-06**|**Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis**|Zhen Ye et.al.|[2502.04128](http://arxiv.org/abs/2502.04128)|**[link](https://github.com/zhenye234/LLaSA_training)**|
 |**2025-02-06**|**Generative Adversarial Networks Bridging Art and Machine Intelligence**|Junhao Song et.al.|[2502.04116](http://arxiv.org/abs/2502.04116)|null|
 |**2025-02-06**|**TQ-DiT: Efficient Time-Aware Quantization for Diffusion Transformers**|Younghye Hwang et.al.|[2502.04056](http://arxiv.org/abs/2502.04056)|null|
 |**2025-02-06**|**PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models**|Aleksandar Cvejic et.al.|[2502.04050](http://arxiv.org/abs/2502.04050)|null|
