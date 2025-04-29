@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
+|**2025-04-25**|**STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting**|Yunze Deng et.al.|[2504.18318](http://arxiv.org/abs/2504.18318)|null|
+|**2025-04-25**|**PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models**|Michel Gokan Khan et.al.|[2504.18165](http://arxiv.org/abs/2504.18165)|null|
+|**2025-04-24**|**iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting**|Kaiyuan Tang et.al.|[2504.17954](http://arxiv.org/abs/2504.17954)|null|
+|**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|null|
 |**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
 |**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693](http://arxiv.org/abs/2504.16693)|null|
@@ -313,6 +318,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468](http://arxiv.org/abs/2504.18468)|null|
+|**2025-04-23**|**Visibility-Uncertainty-guided 3D Gaussian Inpainting via Scene Conceptional Learning**|Mingxuan Cui et.al.|[2504.17815](http://arxiv.org/abs/2504.17815)|null|
 |**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|null|
 |**2025-04-23**|**Dual-Camera All-in-Focus Neural Radiance Fields**|Xianrui Luo et.al.|[2504.16636](http://arxiv.org/abs/2504.16636)|null|
 |**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
@@ -462,8 +469,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**SSD-Poser: Avatar Pose Estimation with State Space Duality from Sparse Observations**|Shuting Zhao et.al.|[2504.18332](http://arxiv.org/abs/2504.18332)|null|
+|**2025-04-25**|**STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting**|Yunze Deng et.al.|[2504.18318](http://arxiv.org/abs/2504.18318)|null|
+|**2025-04-25**|**Optimizing Multi-Round Enhanced Training in Diffusion Models for Improved Preference Understanding**|Kun Li et.al.|[2504.18204](http://arxiv.org/abs/2504.18204)|null|
+|**2025-04-25**|**Generative AI for Physical-Layer Authentication**|Rui Meng et.al.|[2504.18175](http://arxiv.org/abs/2504.18175)|null|
+|**2025-04-25**|**Disentangle Identity, Cooperate Emotion: Correlation-Aware Emotional Talking Portrait Generation**|Weipeng Tan et.al.|[2504.18087](http://arxiv.org/abs/2504.18087)|null|
+|**2025-04-25**|**Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models**|Chen Chen et.al.|[2504.18032](http://arxiv.org/abs/2504.18032)|null|
+|**2025-04-25**|**Diffusion-Driven Universal Model Inversion Attack for Face Recognition**|Hanrui Wang et.al.|[2504.18015](http://arxiv.org/abs/2504.18015)|null|
+|**2025-04-24**|**DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing**|Aniruddha Bala et.al.|[2504.17894](http://arxiv.org/abs/2504.17894)|null|
 |**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791](http://arxiv.org/abs/2504.17791)|null|
-|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-27**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
 |**2025-04-24**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et.al.|[2504.17656](http://arxiv.org/abs/2504.17656)|null|
 |**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628](http://arxiv.org/abs/2504.17628)|null|
 |**2025-04-24**|**ESDiff: Encoding Strategy-inspired Diffusion Model with Few-shot Learning for Color Image Inpainting**|Junyan Zhang et.al.|[2504.17524](http://arxiv.org/abs/2504.17524)|null|
