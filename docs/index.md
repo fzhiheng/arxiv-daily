@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.05.23
+## Updated on 2025.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion**|Asrar Alruwayqi et.al.|[2505.16535](http://arxiv.org/abs/2505.16535)|null|
+|**2025-05-22**|**Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction**|Jiacong Chen et.al.|[2505.16533](http://arxiv.org/abs/2505.16533)|null|
 |**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737](http://arxiv.org/abs/2505.15737)|null|
 |**2025-05-21**|**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**|Zane K J Hartley et.al.|[2505.15528](http://arxiv.org/abs/2505.15528)|null|
 |**2025-05-21**|**R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections**|Xu yan et.al.|[2505.15294](http://arxiv.org/abs/2505.15294)|null|
@@ -387,6 +389,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912](http://arxiv.org/abs/2505.16912)|null|
 |**2025-05-19**|**IPENS:Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion**|Wentao Song et.al.|[2505.13633](http://arxiv.org/abs/2505.13633)|null|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875](http://arxiv.org/abs/2505.12875)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384](http://arxiv.org/abs/2505.12384)|null|
@@ -567,6 +570,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013](http://arxiv.org/abs/2505.17013)|null|
+|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|null|
+|**2025-05-22**|**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction**|Dong Li et.al.|[2505.16980](http://arxiv.org/abs/2505.16980)|null|
+|**2025-05-22**|**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On**|Siqi Wan et.al.|[2505.16977](http://arxiv.org/abs/2505.16977)|null|
+|**2025-05-22**|**Creatively Upscaling Images with Global-Regional Priors**|Yurui Qian et.al.|[2505.16976](http://arxiv.org/abs/2505.16976)|null|
+|**2025-05-22**|**Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models**|Alessandro Favero et.al.|[2505.16959](http://arxiv.org/abs/2505.16959)|null|
+|**2025-05-22**|**LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning**|Zebin You et.al.|[2505.16933](http://arxiv.org/abs/2505.16933)|null|
+|**2025-05-22**|**T2I-ConBench: Text-to-Image Benchmark for Continual Post-training**|Zhehao Huang et.al.|[2505.16875](http://arxiv.org/abs/2505.16875)|null|
+|**2025-05-22**|**Training-Free Efficient Video Generation via Dynamic Token Carving**|Yuechen Zhang et.al.|[2505.16864](http://arxiv.org/abs/2505.16864)|null|
+|**2025-05-22**|**Conditional Panoramic Image Generation via Masked Autoregressive Modeling**|Chaoyang Wang et.al.|[2505.16862](http://arxiv.org/abs/2505.16862)|null|
 |**2025-05-21**|**Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization**|Satoshi Kosugi et.al.|[2505.15812](http://arxiv.org/abs/2505.15812)|**[link](https://github.com/satoshi-kosugi/powerful-attention)**|
 |**2025-05-21**|**Interspatial Attention for Efficient 4D Human Video Generation**|Ruizhi Shao et.al.|[2505.15800](http://arxiv.org/abs/2505.15800)|null|
 |**2025-05-21**|**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL**|Fengyuan Dai et.al.|[2505.15791](http://arxiv.org/abs/2505.15791)|null|
