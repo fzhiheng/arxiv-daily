@@ -30,11 +30,11 @@ layout: default
 |**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379](http://arxiv.org/abs/2506.01379)|null|
 |**2025-06-01**|**CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting**|Fengze Li et.al.|[2506.01109](http://arxiv.org/abs/2506.01109)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877](http://arxiv.org/abs/2505.24877)|null|
-|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|null|
-|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|null|
+|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796](http://arxiv.org/abs/2505.24796)|**[link](https://github.com/tensorcore3dgs/3dgstensorcore)**|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
 |**2025-05-30**|**GARLIC: GAussian Representation LearnIng for spaCe partitioning**|Panagiotis Rigas et.al.|[2505.24608](http://arxiv.org/abs/2505.24608)|null|
 |**2025-05-30**|**LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework**|Xin Kang et.al.|[2505.24245](http://arxiv.org/abs/2505.24245)|null|
-|**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053](http://arxiv.org/abs/2505.24053)|null|
+|**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053](http://arxiv.org/abs/2505.24053)|**[link](https://github.com/zixunh/3DGEER)**|
 |**2025-05-30**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734](http://arxiv.org/abs/2505.23734)|**[link](https://github.com/ziplab/ZPressor)**|
 |**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716](http://arxiv.org/abs/2505.23716)|null|
 |**2025-05-29**|**Mobi- $π$ : Mobilizing Your Robot Learning Policy**|Jingyun Yang et.al.|[2505.23692](http://arxiv.org/abs/2505.23692)|null|
@@ -43,7 +43,7 @@ layout: default
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
 |**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978](http://arxiv.org/abs/2505.22978)|null|
 |**2025-05-28**|**3DGS Compression with Sparsity-guided Hierarchical Transform Coding**|Hao Xu et.al.|[2505.22908](http://arxiv.org/abs/2505.22908)|null|
-|**2025-05-28**|**CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting**|Kornel Howil et.al.|[2505.22854](http://arxiv.org/abs/2505.22854)|null|
+|**2025-05-28**|**CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting**|Kornel Howil et.al.|[2505.22854](http://arxiv.org/abs/2505.22854)|**[link](https://github.com/kornelhowil/clipgaussian)**|
 |**2025-05-28**|**STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering**|Zehao Li et.al.|[2505.22400](http://arxiv.org/abs/2505.22400)|null|
 |**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502](http://arxiv.org/abs/2505.21502)|null|
 |**2025-05-27**|**Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility**|Yidi Li et.al.|[2505.21377](http://arxiv.org/abs/2505.21377)|null|
@@ -54,7 +54,7 @@ layout: default
 |**2025-05-27**|**Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting**|Zechen Li et.al.|[2505.20714](http://arxiv.org/abs/2505.20714)|**[link](https://github.com/sim-2-real/wideband3dgs)**|
 |**2025-05-27**|**OmniIndoor3D: Comprehensive Indoor 3D Reconstruction**|Xiaobao Wei et.al.|[2505.20610](http://arxiv.org/abs/2505.20610)|null|
 |**2025-05-26**|**CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**|Lei Tian et.al.|[2505.20469](http://arxiv.org/abs/2505.20469)|null|
-|**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|null|
+|**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|**[link](https://github.com/quanjinsheng/particlegs)**|
 |**2025-05-23**|**SplatCo: Structure-View Collaborative Gaussian Splatting for Detail-Preserving Rendering of Large-Scale Unbounded Scenes**|Haihong Xiao et.al.|[2505.17951](http://arxiv.org/abs/2505.17951)|null|
 |**2025-05-23**|**CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**|Florian Barthel et.al.|[2505.17590](http://arxiv.org/abs/2505.17590)|null|
 |**2025-05-23**|**From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation**|Mahmoud Chick Zaouali et.al.|[2505.17402](http://arxiv.org/abs/2505.17402)|null|
@@ -673,7 +673,7 @@ layout: default
 |**2025-05-29**|**DiffER: Categorical Diffusion for Chemical Retrosynthesis**|Sean Current et.al.|[2505.23721](http://arxiv.org/abs/2505.23721)|**[link](https://github.com/sfcurre/differ)**|
 |**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675](http://arxiv.org/abs/2505.23675)|null|
 |**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661](http://arxiv.org/abs/2505.23661)|**[link](https://github.com/wusize/openuni)**|
-|**2025-05-29**|**VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models**|Xiangdong Zhang et.al.|[2505.23656](http://arxiv.org/abs/2505.23656)|null|
+|**2025-05-29**|**VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models**|Xiangdong Zhang et.al.|[2505.23656](http://arxiv.org/abs/2505.23656)|**[link](https://github.com/aHapBean/VideoREPA)**|
 |**2025-05-29**|**Optimization-Free Diffusion Model -- A Perturbation Theory Approach**|Yuehaw Khoo et.al.|[2505.23652](http://arxiv.org/abs/2505.23652)|null|
 |**2025-05-29**|**ZeroSep: Separate Anything in Audio with Zero Training**|Chao Huang et.al.|[2505.23625](http://arxiv.org/abs/2505.23625)|null|
 |**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
