@@ -1,4 +1,4 @@
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2025-06-24**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-17**|**Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**|Zhengquan Zhang et.al.|[2506.14856](http://arxiv.org/abs/2506.14856)|null|
 |**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
-|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|**[link](https://github.com/yukexing/3dgs-ieval-15k)**|
 |**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li et.al.|[2506.14229](http://arxiv.org/abs/2506.14229)|null|
 |**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai et.al.|[2506.14135](http://arxiv.org/abs/2506.14135)|null|
 |**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
@@ -118,7 +118,7 @@
 |**2025-05-26**|**CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**|Lei Tian et.al.|[2505.20469](http://arxiv.org/abs/2505.20469)|null|
 |**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|**[link](https://github.com/quanjinsheng/particlegs)**|
 |**2025-05-23**|**SplatCo: Structure-View Collaborative Gaussian Splatting for Detail-Preserving Rendering of Large-Scale Unbounded Scenes**|Haihong Xiao et.al.|[2505.17951](http://arxiv.org/abs/2505.17951)|null|
-|**2025-05-23**|**CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**|Florian Barthel et.al.|[2505.17590](http://arxiv.org/abs/2505.17590)|null|
+|**2025-05-23**|**CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**|Florian Barthel et.al.|[2505.17590](http://arxiv.org/abs/2505.17590)|**[link](https://github.com/fraunhoferhhi/cgs-gan)**|
 |**2025-05-23**|**From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation**|Mahmoud Chick Zaouali et.al.|[2505.17402](http://arxiv.org/abs/2505.17402)|null|
 |**2025-05-22**|**Render-FM: A Foundation Model for Real-time Photorealistic Volumetric Rendering**|Zhongpai Gao et.al.|[2505.17338](http://arxiv.org/abs/2505.17338)|null|
 |**2025-05-22**|**SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion**|Asrar Alruwayqi et.al.|[2505.16535](http://arxiv.org/abs/2505.16535)|null|
@@ -497,7 +497,7 @@
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478](http://arxiv.org/abs/2501.07478)|**[link](https://github.com/lewis-stuart-11/3dgs-to-pc)**|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## NeRF
 
@@ -719,7 +719,7 @@
 |**2025-01-17**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
 |**2025-01-11**|**NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References**|Qiang Qu et.al.|[2501.06488](http://arxiv.org/abs/2501.06488)|**[link](https://github.com/vincentqqu/nvs-sqa)**|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## Diffusion
 
@@ -773,12 +773,12 @@
 |**2025-06-17**|**Using BDF schemes in the temporal integration of POD-ROM methods**|Bosco García-Archilla et.al.|[2506.14543](http://arxiv.org/abs/2506.14543)|null|
 |**2025-06-17**|**Reimagining Target-Aware Molecular Generation through Retrieval-Enhanced Aligned Diffusion**|Dong Xu et.al.|[2506.14488](http://arxiv.org/abs/2506.14488)|null|
 |**2025-06-17**|**LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs**|Xiaoran Liu et.al.|[2506.14429](http://arxiv.org/abs/2506.14429)|null|
-|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|null|
+|**2025-06-17**|**Causally Steered Diffusion for Automated Video Counterfactual Generation**|Nikos Spyrou et.al.|[2506.14404](http://arxiv.org/abs/2506.14404)|**[link](https://github.com/nysp78/counterfactual-video-generation)**|
 |**2025-06-17**|**Decoupled Classifier-Free Guidance for Counterfactual Diffusion Models**|Tian Xia et.al.|[2506.14399](http://arxiv.org/abs/2506.14399)|null|
 |**2025-06-13**|**Measurement-aligned Flow for Inverse Problem**|Shaorong Zhang et.al.|[2506.11893](http://arxiv.org/abs/2506.11893)|null|
 |**2025-06-13**|**CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**|Byeongchan Lee et.al.|[2506.11772](http://arxiv.org/abs/2506.11772)|null|
-|**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|null|
-|**2025-06-13**|**Simulating realistic radio continuum survey maps with diffusion models**|Tobias Vičánek Martínez et.al.|[2506.11715](http://arxiv.org/abs/2506.11715)|null|
+|**2025-06-13**|**DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models**|Muhammad Sarmad et.al.|[2506.11764](http://arxiv.org/abs/2506.11764)|**[link](https://github.com/norskregnesentral/difffusr)**|
+|**2025-06-13**|**Simulating realistic radio continuum survey maps with diffusion models**|Tobias Vičánek Martínez et.al.|[2506.11715](http://arxiv.org/abs/2506.11715)|**[link](https://github.com/tmartinezML/MASSIMO)**|
 |**2025-06-13**|**Fusion of multi-source precipitation records via coordinate-based generative model**|Sencan Sun et.al.|[2506.11698](http://arxiv.org/abs/2506.11698)|null|
 |**2025-06-13**|**Robust Filtering -- Novel Statistical Learning and Inference Algorithms with Applications**|Aamir Hussain Chughtai et.al.|[2506.11530](http://arxiv.org/abs/2506.11530)|null|
 |**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|**[link](https://github.com/tum-avs/fm-for-scenario-generation-analysis)**|
@@ -824,7 +824,7 @@
 |**2025-06-05**|**Neural Jumps for Option Pricing**|Duosi Zheng et.al.|[2506.05137](http://arxiv.org/abs/2506.05137)|null|
 |**2025-06-06**|**SeedEdit 3.0: Fast and High-Quality Generative Image Editing**|Peng Wang et.al.|[2506.05083](http://arxiv.org/abs/2506.05083)|null|
 |**2025-06-05**|**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing**|Guangzhao Li et.al.|[2506.05046](http://arxiv.org/abs/2506.05046)|null|
-|**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|null|
+|**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|**[link](https://github.com/aiiu-lab/backdoorimageediting)**|
 |**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
 |**2025-06-03**|**DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation**|Zhengyao Lv et.al.|[2506.03123](http://arxiv.org/abs/2506.03123)|null|
 |**2025-06-03**|**Rectified Flows for Fast Multiscale Fluid Flow Modeling**|Victor Armegioiu et.al.|[2506.03111](http://arxiv.org/abs/2506.03111)|null|
@@ -1355,7 +1355,7 @@
 |**2025-01-30**|**Inverse source problem of sub-diffusion of variable exponent**|Zhiyuan Li et.al.|[2501.18228](http://arxiv.org/abs/2501.18228)|null|
 |**2025-01-29**|**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders**|Bartosz Cywiński et.al.|[2501.18052](http://arxiv.org/abs/2501.18052)|**[link](https://github.com/cywinski/saeuron)**|
 |**2025-01-28**|**ProcTex: Consistent and Interactive Text-to-texture Synthesis for Procedural Models**|Ruiqi Xu et.al.|[2501.17895](http://arxiv.org/abs/2501.17895)|null|
-|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|null|
+|**2025-01-29**|**VICCA: Visual Interpretation and Comprehension of Chest X-ray Anomalies in Generated Report Without Human Feedback**|Sayeh Gholipour Picha et.al.|[2501.17726](http://arxiv.org/abs/2501.17726)|**[link](https://github.com/sayeh1994/vicca)**|
 |**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
 |**2025-01-29**|**Solving Inverse Problems using Diffusion with Fast Iterative Renoising**|Matt C. Bendel et.al.|[2501.17468](http://arxiv.org/abs/2501.17468)|null|
 |**2025-01-28**|**MDDM: A Molecular Dynamics Diffusion Model to Predict Particle Self-Assembly**|Kevin Ferguson et.al.|[2501.17319](http://arxiv.org/abs/2501.17319)|null|
@@ -1406,7 +1406,7 @@
 |**2025-01-16**|**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery**|Shristi Das Biswas et.al.|[2501.09826](http://arxiv.org/abs/2501.09826)|**[link](https://github.com/amazon-science/pixels)**|
 |**2025-01-16**|**Lossy Compression with Pretrained Diffusion Models**|Jeremy Vonderfecht et.al.|[2501.09815](http://arxiv.org/abs/2501.09815)|**[link](https://github.com/jeremyiv/diffc)**|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
