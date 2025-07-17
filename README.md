@@ -1,4 +1,4 @@
-## Updated on 2025.07.15
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**A Mixed-Primitive-based Gaussian Splatting Method for Surface Reconstruction**|Haoxuan Qu et.al.|[2507.11321](http://arxiv.org/abs/2507.11321)|null|
+|**2025-07-16**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069](http://arxiv.org/abs/2507.11069)|null|
+|**2025-07-15**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061](http://arxiv.org/abs/2507.11061)|null|
+|**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542](http://arxiv.org/abs/2507.10542)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-11**|**RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting**|Ji Hyun Seo et.al.|[2507.08434](http://arxiv.org/abs/2507.08434)|null|
 |**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
@@ -544,14 +549,17 @@
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478](http://arxiv.org/abs/2501.07478)|**[link](https://github.com/lewis-stuart-11/3dgs-to-pc)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
+|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
-|**2025-07-08**|**A Probabilistic Approach to Uncertainty Quantification Leveraging 3D Geometry**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
+|**2025-07-14**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
 |**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
@@ -778,12 +786,22 @@
 |**2025-01-17**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
 |**2025-01-11**|**NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References**|Qiang Qu et.al.|[2501.06488](http://arxiv.org/abs/2501.06488)|**[link](https://github.com/vincentqqu/nvs-sqa)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**|Pan Du et.al.|[2507.11474](http://arxiv.org/abs/2507.11474)|null|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
+|**2025-07-15**|**Ocean Diviner: A Diffusion-Augmented Reinforcement Learning for AUV Robust Control in the Underwater Tasks**|Weiyi Liu et.al.|[2507.11283](http://arxiv.org/abs/2507.11283)|null|
+|**2025-07-15**|**Latent Space Consistency for Sparse-View CT Reconstruction**|Duoyou Chen et.al.|[2507.11152](http://arxiv.org/abs/2507.11152)|null|
+|**2025-07-15**|**Human-Guided Shade Artifact Suppression in CBCT-to-MDCT Translation via Schrödinger Bridge with Conditional Diffusion**|Sung Ho Kang et.al.|[2507.11025](http://arxiv.org/abs/2507.11025)|null|
+|**2025-07-15**|**Robust ID-Specific Face Restoration via Alignment Learning**|Yushun Fang et.al.|[2507.10943](http://arxiv.org/abs/2507.10943)|null|
+|**2025-07-14**|**Visually grounded emotion regulation via diffusion models and user-driven reappraisal**|Edoardo Pinzuti et.al.|[2507.10861](http://arxiv.org/abs/2507.10861)|null|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
+|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
 |**2025-07-11**|**Anisotropic Diffusion of $e^\pm$ in Pulsar Halos over Multiple Coherence of Magnetic Field**|Kai Yan et.al.|[2507.08526](http://arxiv.org/abs/2507.08526)|null|
 |**2025-07-11**|**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers**|Wongi Jeong et.al.|[2507.08422](http://arxiv.org/abs/2507.08422)|null|
@@ -1533,7 +1551,7 @@
 |**2025-01-16**|**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery**|Shristi Das Biswas et.al.|[2501.09826](http://arxiv.org/abs/2501.09826)|**[link](https://github.com/amazon-science/pixels)**|
 |**2025-01-16**|**Lossy Compression with Pretrained Diffusion Models**|Jeremy Vonderfecht et.al.|[2501.09815](http://arxiv.org/abs/2501.09815)|**[link](https://github.com/jeremyiv/diffc)**|
 
-<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
