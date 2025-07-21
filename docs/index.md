@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.19
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 3DGS
